@@ -1,0 +1,16 @@
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.exe
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.deps.json
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.runtimeconfig.json
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.runtimeconfig.dev.json
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.dll
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\ref\Day2.dll
+D:\C#Basic\MinhTuC#Day32\Day2\bin\Debug\net5.0\Day2.pdb
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.csproj.AssemblyReference.cache
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.AssemblyInfoInputs.cache
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.AssemblyInfo.cs
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.csproj.CoreCompileInputs.cache
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.dll
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\ref\Day2.dll
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.pdb
+D:\C#Basic\MinhTuC#Day32\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.exe
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.deps.json
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.runtimeconfig.json
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.runtimeconfig.dev.json
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.dll
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\ref\Day3Clock.dll
+D:\C#Basic\MinhTuC#Day32\Day3Clock\bin\Debug\net5.0\Day3Clock.pdb
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.csproj.AssemblyReference.cache
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.AssemblyInfoInputs.cache
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.AssemblyInfo.cs
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.csproj.CoreCompileInputs.cache
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.dll
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\ref\Day3Clock.dll
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.pdb
+D:\C#Basic\MinhTuC#Day32\Day3Clock\obj\Debug\net5.0\Day3Clock.genruntimeconfig.cache

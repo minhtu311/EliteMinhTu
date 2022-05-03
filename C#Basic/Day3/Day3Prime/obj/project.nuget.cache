@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkTaQQu2XVJ8R1PbJuXgr+vLByOpQzn+oQj5zfqDe0f0bxQyxkRIqpX94k4TaQw0VeIhQD2AHGwyTjVASroosw==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\EliteMinhTu\\C#Basic\\Day3\\Day3Prime\\Day3Prime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

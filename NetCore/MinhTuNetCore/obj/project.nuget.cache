@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y05nEaNavbYSo2UaqCCpx+8x5+PywpulcxbgHA1SJhPrE1IDnv74oCBSCLa/ni4kQhDFTfm9ggaANct10I8JTg==",
+  "success": true,
+  "projectFilePath": "e:\\Study\\EliteMinhTu\\NetCore\\MinhTuNetCore\\MinhTuNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
