@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MVCAssignment3.Models.DTO;
@@ -68,9 +69,10 @@ namespace MVCAssignment3.Controllers
             {
                 return NotFound();
             }
+            HttpContext.Session.SetString("SessionPersonNameDelete", name);
             _personService.Delete((int)id);
 
-            TempData["Message"] = name + " was removed from the list successfully!";
+            TempData["Message"] = HttpContext.Session.GetString("SessionPersonNameDelete") + " was removed from the list successfully!";
             return RedirectToAction("Index", "Person");
         }
     }
