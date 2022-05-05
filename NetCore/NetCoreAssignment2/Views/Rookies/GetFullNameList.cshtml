@@ -1,0 +1,22 @@
+@model IEnumerable<string>
+@{
+    ViewData["Title"] = "GetFullNameList";
+}
+
+<h1>Full Name List</h1>
+<hr />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Full name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,50 @@
+@using NetCoreAssignment2.Models
+@model IEnumerable<Person>
+
+@{
+    ViewData["Title"] = "GetMemberByValue";
+}
+
+@if (@ViewBag.Header == 1)
+{
+    <h1>List Birth Year Is 2000</h1>
+}
+else if(@ViewBag.Header == 2)
+{
+    <h1>List Birth Year Greater Than 2000</h1>
+}
+else
+{
+    <h1>List Birth Year Less Than 2000</h1>
+}
+<hr />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">First Name</th>
+            <th scope="col">Last Name</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Dob</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Birth Place</th>
+            <th scope="col">Graduated</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.FirstName</th>
+                <td>@item.LastName</td>
+                <td>
+                    @(item.Gender == true ? "Male" : "Female")
+                </td>
+                <td>@item.Dob</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.BirthPlace</td>
+                <td>@item.IsGraduated</td>
+            </tr>
+        }
+    </tbody>
+</table>
