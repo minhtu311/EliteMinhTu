@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3vfNO7kW4KNwqG9D9w1LGHg7Y9CmZn5G6ksZrDpCuk2sE2Sh75qj6JH2VCkWarXdtjjMtCile6yklmO4/fYaA==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\EliteMinhTu\\EliteMinhTu\\NetCore\\MVCAssignment3\\MVCAssignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
